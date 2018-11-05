@@ -62,15 +62,15 @@ h1 {
   }
 }
 
-/*h2, h3 {
-  font-variation-settings: "SCAL" 100,  "BASE" 500,  "SPAC" 79.3982,  "wght" 322,  "OPTI" 45.11,  "HEIG" 357.316,  "CAPS" 574.948,  "CAPA" 420.056,  "CAPB" 321.776,  "ASCE" 644.146,  "DESC" 687.704,  "DIAC" 67.7662,  "MONO" 0,  "CURV" 0;
+h2, h3 {
+  font-variation-settings: "SCAL" 100, "BASE" 500, "SPAC" 79.3982, "wght" 322, "OPTI" 45.11, "HEIG" 357.316, "CAPS" 574.948, "CAPA" 420.056, "CAPB" 321.776, "ASCE" 644.146, "DESC" 687.704, "DIAC" 67.7662, "MONO" 0, "CURV" 0;
   line-height: 1.2;
   margin-bottom: 1em;
   margin-top: 2em;
   text-transform: uppercase;
 }
 
-p {
+/*p {
   margin-bottom: 1em;
 }
 
