@@ -8,6 +8,13 @@ html {
   font-weight: "wght" 400;
 }
 
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Noboto Flex";
+    font-variation-settings: 400;
+  }
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,12 +38,6 @@ html {
   height: 1.5em;
 }
 
-@supports (font-variation-settings: normal) {
-  html {
-    font-family: "Noboto Flex";
-    font-variation-settings: 400;
-  }
-}
 * {
   box-sizing: border-box;
 }
