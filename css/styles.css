@@ -99,11 +99,11 @@ ul {
   padding-left: 1em;
 }
 
-/*ol {
+ol {
   list-style-type: lower-latin;
 }
 
-li ol, li ul {
+/*li ol, li ul {
   padding-left: 1em;
   margin-bottom: 0;
 }
