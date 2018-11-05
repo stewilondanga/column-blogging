@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Noboto Flex";
+  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/211696/NobotoFlex-VF.woff2") format("woff2-variations");
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,10 +26,6 @@
   height: 1.5em;
 }
 
-@font-face {
-  font-family: "Noboto Flex";
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/211696/NobotoFlex-VF.woff2") format("woff2-variations");
-}
 html {
   font-family: "SourceSans" sans-serif;
   font-weight: "wght" 400;
