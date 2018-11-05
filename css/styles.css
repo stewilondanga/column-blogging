@@ -50,13 +50,13 @@ h1 {
   animation: heading 1500ms ease infinite alternate-reverse;
 }
 
-/*@-webkit-keyframes heading {
+@-webkit-keyframes heading {
   to {
-    font-variation-settings: "SCAL" 100,  "BASE" 500,  "SPAC" 100,  "wght" 55, "OPTI" 20,  "HEIG" 456,  "CAPS" 455,  "CAPA" 400,  "CAPB" 166,  "ASCE" 1000, "DESC" 456,  "DIAC" 100,  "MONO" 0,  "CURV" 0;
+    font-variation-settings: "SCAL" 100, "BASE" 500, "SPAC" 100, "wght" 55, "OPTI" 20, "HEIG" 456, "CAPS" 455, "CAPA" 400, "CAPB" 166, "ASCE" 1000, "DESC" 456, "DIAC" 100, "MONO" 0, "CURV" 0;
   }
 }
 
-@keyframes heading {
+/*@keyframes heading {
   to {
     font-variation-settings: "SCAL" 100,  "BASE" 500,  "SPAC" 100,  "wght" 55, "OPTI" 20,  "HEIG" 456,  "CAPS" 455,  "CAPA" 400,  "CAPB" 166,  "ASCE" 1000, "DESC" 456,  "DIAC" 100,  "MONO" 0,  "CURV" 0;
   }
