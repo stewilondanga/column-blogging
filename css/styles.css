@@ -103,12 +103,12 @@ ol {
   list-style-type: lower-latin;
 }
 
-/*li ol, li ul {
+li ol, li ul {
   padding-left: 1em;
   margin-bottom: 0;
 }
 
-.header--img img {
+/*.header--img img {
   -o-object-fit: cover;
      object-fit: cover;
   width: 100%;
