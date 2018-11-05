@@ -82,14 +82,14 @@ em {
   font-style: italic;
 }
 
-/*blockquote {
+blockquote {
   padding-left: 1em;
   border-left: 1px solid currentcolor;
-  font-variation-settings: "SCAL" 100,  "BASE" 500,  "SPAC" 171.296,  "wght" 54,  "OPTI" 100,  "HEIG" 235.224,  "CAPS" 656,  "CAPA" 656,  "CAPB" 168.552,  "ASCE" 1000,  "DESC" 1000,  "DIAC" 0,  "MONO" 100,  "CURV" 100;
+  font-variation-settings: "SCAL" 100, "BASE" 500, "SPAC" 171.296, "wght" 54, "OPTI" 100, "HEIG" 235.224, "CAPS" 656, "CAPA" 656, "CAPB" 168.552, "ASCE" 1000, "DESC" 1000, "DIAC" 0, "MONO" 100, "CURV" 100;
   line-height: 1.5;
 }
 
-ol, ul {
+/*ol, ul {
   padding-left: 2em;
   margin-bottom: 1em;
 }
