@@ -26,13 +26,7 @@ body {
   font-variation-settings: "SCAL" 74.4575, "BASE" 446.904, "SPAC" 135.359, "wght" 148.141, "OPTI" 29.9624, "HEIG" 456, "CAPS" 497.164, "CAPA" 465.482, "CAPB" 375.124, "ASCE" 840.861, "DESC" 793.403, "DIAC" 31.7564, "MONO" 0, "CURV" 0;
 }
 
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
+/*
 
 .my_social {
   position: absolute;
